@@ -1,7 +1,7 @@
 # EXCEL- DASHBOARD
 Welcome to the Superstore Sales Dashboard! This Excel dashboard provides comprehensive insights into the sales performance of our Superstore across different dimensions.
 
-OvVERVIEW
+OVERVIEW
 
 Order vs Sales: A comparison of total orders and sales revenue over time.
 
